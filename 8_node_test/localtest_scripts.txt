@@ -1,0 +1,8 @@
+python3 -u gentx.py 5 | ./mp1_node node1 1234 local_config1.txt
+python3 -u gentx.py 5 | ./mp1_node node2 1235 local_config2.txt
+python3 -u gentx.py 5 | ./mp1_node node3 1236 local_config3.txt
+python3 -u gentx.py 5 | ./mp1_node node4 1237 local_config4.txt
+python3 -u gentx.py 5 | ./mp1_node node5 1238 local_config5.txt
+python3 -u gentx.py 5 | ./mp1_node node6 1239 local_config6.txt
+python3 -u gentx.py 5 | ./mp1_node node7 1240 local_config7.txt
+python3 -u gentx.py 5 | ./mp1_node node8 1241 local_config8.txt
